@@ -52,5 +52,5 @@ Claude (Anthropic) a été utilisé comme assistant : relecture et vérification
 ## Équipe
 
 - Membre 1 : business et décision (axes 1, 6, 7) - Eurydice SEMASSOU
-- Membre 2 : données et préparation (axes 2, 3) - Sabirath SOUMASSOU
+- Membre 2 : données et préparation (axes 2, 3) - Sabirath SOUMANOU
 - Membre 3 : modélisation et évaluation (axes 4, 5) - Susana NOGUEIRA COSTA
